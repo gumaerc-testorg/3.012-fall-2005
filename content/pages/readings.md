@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 11a083c2-7251-0287-41e6-54784d86363b
 ---
@@ -16,10 +19,10 @@ A&T: Allen, S. M., and E. L. Thomas. _The Structure of Materials_. New York, NY:
 {{< thopen >}}
  
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Structure and Bonding
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Thermodynamics
 {{< thclose >}}
 

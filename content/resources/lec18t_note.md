@@ -4,8 +4,13 @@ description: 'This file contains free energy and phase diagrams of ideal binary 
   binary solutions with limited miscibility in the solid sate miscibility gaps and
 
   eutectic systems.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-012-fundamentals-of-materials-science-fall-2005/63b965c45cfa0778c7e4b1445948c073_lec18t_note.pdf
+file: /media/courses/3-012-fundamentals-of-materials-science-fall-2005/63b965c45cfa0778c7e4b1445948c073_lec18t_note.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec18t_note.pdf
 uid: 63b965c4-5cfa-0778-c7e4-b1445948c073

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Homework problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-012-fundamentals-of-materials-science-fall-2005/d378161888532d6293483868222f4060_f04ps8_sol.pdf
+file: /media/courses/3-012-fundamentals-of-materials-science-fall-2005/d378161888532d6293483868222f4060_f04ps8_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: f04ps8_sol.pdf
 uid: d3781618-8853-2d62-9348-3868222f4060

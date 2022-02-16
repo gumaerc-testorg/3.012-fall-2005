@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-012-fundamentals-of-materials-science-fall-2005/ebb6281e6eba4bee09f02a2dfd3d7dea_lec12b.pdf
+file: /media/courses/3-012-fundamentals-of-materials-science-fall-2005/ebb6281e6eba4bee09f02a2dfd3d7dea_lec12b.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec12b.pdf
 uid: ebb6281e-6eba-4bee-09f0-2a2dfd3d7dea

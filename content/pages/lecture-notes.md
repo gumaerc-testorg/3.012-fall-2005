@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 9b84782c-e584-0689-a998-0228b6218bbc
 ---
@@ -17,10 +20,10 @@ For most lectures, slides are presented below in two versions: the original slid
 {{< thopen >}}
  
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Structure and Bonding                          
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Thermodynamics
 {{< thclose >}}
 
@@ -59,9 +62,7 @@ L1
 Classical or Quantum: Electrons as Waves, Wave Mechanics ([PDF 1]({{< baseurl >}}/resources/lec01b)) ([PDF 2]({{< baseurl >}}/resources/lec01b_bis))
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/lec01b_note))  
-  
-([PDF 2]({{< baseurl >}}/resources/lec01b_bis_note))
+([PDF 1]({{< baseurl >}}/resources/lec01b_note)){{< sup "  \n  \n" >}}([PDF 2]({{< baseurl >}}/resources/lec01b_bis_note))
 {{< tdclose >}}
 {{< tdopen >}}
 Fundamental Concepts ([PDF - 3.2 MB]({{< baseurl >}}/resources/lec01t))

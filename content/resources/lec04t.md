@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This file contains state functions, path dependent variables: heat and
   work, temperature, heat capacity and calculations with heat capacities.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-012-fundamentals-of-materials-science-fall-2005/4e66ccea9b9c9dcdb35d4c47cbb3ae78_lec04t.pdf
+file: /media/courses/3-012-fundamentals-of-materials-science-fall-2005/4e66ccea9b9c9dcdb35d4c47cbb3ae78_lec04t.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec04t.pdf
 uid: 4e66ccea-9b9c-9dcd-b35d-4c47cbb3ae78

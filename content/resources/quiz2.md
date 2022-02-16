@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains questions on bonding and thermodynamics in quiz 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-012-fundamentals-of-materials-science-fall-2005/eaeba6e75c452e763a034c4a89a457ea_quiz2.pdf
+file: /media/courses/3-012-fundamentals-of-materials-science-fall-2005/eaeba6e75c452e763a034c4a89a457ea_quiz2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz2.pdf
 uid: eaeba6e7-5c45-2e76-3a03-4c4a89a457ea

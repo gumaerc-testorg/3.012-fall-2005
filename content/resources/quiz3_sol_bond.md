@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-012-fundamentals-of-materials-science-fall-2005/424676caf64b0a3b9114f6484410b41a_quiz3_sol_bond.pdf
+file: /media/courses/3-012-fundamentals-of-materials-science-fall-2005/424676caf64b0a3b9114f6484410b41a_quiz3_sol_bond.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz3_sol_bond.pdf
 uid: 424676ca-f64b-0a3b-9114-f6484410b41a

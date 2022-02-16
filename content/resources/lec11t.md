@@ -3,8 +3,13 @@ content_type: resource
 description: This file contains relationship between chemical potential and gibbs
   free energy, chemical potential of the ideal gas, general solution model and ideal
   solutions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-012-fundamentals-of-materials-science-fall-2005/db26fd8bd9421c3659931bccdd605328_lec11t.pdf
+file: /media/courses/3-012-fundamentals-of-materials-science-fall-2005/db26fd8bd9421c3659931bccdd605328_lec11t.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec11t.pdf
 uid: db26fd8b-d942-1c36-5993-1bccdd605328

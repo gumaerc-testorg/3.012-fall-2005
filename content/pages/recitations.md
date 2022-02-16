@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: 2fe4c0af-6394-da86-282d-2c11aa8992de
 ---
@@ -18,10 +21,10 @@ This page presents information covered in recitation sessions. While each lectur
 {{< thopen >}}
 Ses #
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Structure and Bonding RECITATIONS
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Thermodynamics RECITATIONS
 {{< thclose >}}
 
@@ -224,7 +227,7 @@ Rb7
 {{< tdopen colspan="2" >}}
 Review Session (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec7b_review))  
   
-Description of sp, sp2, sp3 Hybridization (pp. 415-417) in Atkins, P. W., and J. de Paula. _Physical Chemistry_. 7th ed. New York, NY: Oxford University Press, 2002. ISBN: 9780198792857.
+Description of sp, sp{{< sup "2" >}}, sp{{< sup "3" >}} Hybridization (pp. 415-417) in Atkins, P. W., and J. de Paula. _Physical Chemistry_. 7th ed. New York, NY: Oxford University Press, 2002. ISBN: 9780198792857.
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
  

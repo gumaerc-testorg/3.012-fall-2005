@@ -5,8 +5,13 @@ description: This resource summarizes the previous lecture on wave mechanics and
   for quantum objects), stationary schr?dinger?s equation (I), stationary schr?dinger?s
   equation (II), stationary schr?dinger?s equation (III), operators, eigenvalues,
   eigenfunctions, free particle, and infinite square well.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-012-fundamentals-of-materials-science-fall-2005/96eef2e2c1330c5a4eba05eb79eea2f3_lec02b.pdf
+file: /media/courses/3-012-fundamentals-of-materials-science-fall-2005/96eef2e2c1330c5a4eba05eb79eea2f3_lec02b.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec02b.pdf
 uid: 96eef2e2-c133-0c5a-4eba-05eb79eea2f3
