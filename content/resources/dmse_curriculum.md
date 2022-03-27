@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 3d41a53d-eb49-6964-154a-68915d825c3d
 resourcetype: Document
 title: dmse_curriculum.pdf
 uid: c83ee026-0d86-0593-2a7a-482e7ac14030

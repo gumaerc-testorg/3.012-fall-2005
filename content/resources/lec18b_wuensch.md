@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 11a083c2-7251-0287-41e6-54784d86363b
 resourcetype: Document
 title: lec18b_wuensch.pdf
 uid: 565215c5-4db3-8a58-c876-423b8c6c9cf4

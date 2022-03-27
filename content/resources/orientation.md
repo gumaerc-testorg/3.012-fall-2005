@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 3d41a53d-eb49-6964-154a-68915d825c3d
 resourcetype: Document
 title: orientation.pdf
 uid: 818eda72-2e04-ba85-3f70-ebde920ac9db

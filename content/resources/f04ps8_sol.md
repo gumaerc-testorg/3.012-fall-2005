@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8db023f2-d8ec-7253-d926-88a30e7c44bb
 resourcetype: Document
 title: f04ps8_sol.pdf
 uid: d3781618-8853-2d62-9348-3868222f4060

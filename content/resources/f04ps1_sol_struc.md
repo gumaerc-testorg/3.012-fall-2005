@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8db023f2-d8ec-7253-d926-88a30e7c44bb
 resourcetype: Document
 title: f04ps1_sol_struc.pdf
 uid: cced5fe4-b755-beb7-5ab6-1b41f5b1bb45

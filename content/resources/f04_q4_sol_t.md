@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 8afa5fc2-30ba-fc0d-8491-0ca406659fd2
 resourcetype: Document
 title: f04_q4_sol_t.pdf
 uid: 3c7c0c0d-8fbc-0db5-7f86-ef15b785c8ba
