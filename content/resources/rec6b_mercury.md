@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-012-fundamentals-of-materials-science-fall-2005/4f3e8c09e947af3de736dd712ac6701c_rec6b_mercury.zip
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/4f3e8c09e947af3de736dd712ac6701c_rec6b_mercury.zip
 file_type: application/zip
 learning_resource_types:
 - Recitations

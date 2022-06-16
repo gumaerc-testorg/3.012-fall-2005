@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a calendar providing information on courses lectures
+  and recitation sessions along with their key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

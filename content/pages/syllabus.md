@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains background information on DMSE undergraduate cirriculum,
+  course information and grading criteria for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -18,7 +20,7 @@ Recitations: 2 sessions / week, 1 hour / session
 The DMSE Undergraduate Curriculum
 ---------------------------------
 
-Overview of DMSE Undergraduate Curriculum ([PDF]({{< baseurl >}}/resources/dmse_curriculum))
+Overview of DMSE Undergraduate Curriculum ({{% resource_link c83ee026-0d86-0593-2a7a-482e7ac14030 "PDF" %}})
 
 3.012 is the introductory lecture class for sophomore students in Materials Science and Engineering, taken with [3.014](/courses/3-014-materials-laboratory-fall-2006) and [3.016](/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005) to create a unified introduction to the subject.
 
@@ -33,7 +35,7 @@ Many fascinating materials phenomena will become clear in the course of the clas
 
 ### Explanation of Course Units
 
-The units reported in the course catalog: (5) (0) (10) appear confusing, given the course schedule (6 hours lecture per week, 2 hours recitation per week) - recall the units system is (hours lecture/recitation) (hours lab) (hours outside class). This is due to the integration of 3.012 with the laboratory course 3.014 - which runs 4 weeks of the term, and takes over the lecture time for 3.012 during lab weeks. Thus the course catalog units reflect an 'average' value measured over the entire term. In practice, you will have 2 hours lecture Monday Wednesday Friday, along with 2 recitations of 1 hour each on Tuesday and Thursday - **during** '3.012' weeks. During '3.014' lab weeks, 3.012 **will not be in session**. The schedule of the lecture/lab sessions is shown in the [calendar]({{< baseurl >}}/pages/calendar) section.
+The units reported in the course catalog: (5) (0) (10) appear confusing, given the course schedule (6 hours lecture per week, 2 hours recitation per week) - recall the units system is (hours lecture/recitation) (hours lab) (hours outside class). This is due to the integration of 3.012 with the laboratory course 3.014 - which runs 4 weeks of the term, and takes over the lecture time for 3.012 during lab weeks. Thus the course catalog units reflect an 'average' value measured over the entire term. In practice, you will have 2 hours lecture Monday Wednesday Friday, along with 2 recitations of 1 hour each on Tuesday and Thursday - **during** '3.012' weeks. During '3.014' lab weeks, 3.012 **will not be in session**. The schedule of the lecture/lab sessions is shown in the {{% resource_link 6b7b9760-a93e-6366-363e-18aa792baa48 "calendar" %}} section.
 
 ### Prerequisites or Corequisites
 
@@ -177,6 +179,6 @@ Each problem set will contain 2-3 problems from structure/bonding and 2-3 proble
 
 4\. Exams:
 
-Each exam will contain approximately half thermodynamics problems, and half structure/bonding questions. Two of the three exams will be given during lecture periods; see the [calendar]({{< baseurl >}}/pages/calendar) section for the detailed schedule. The last exam, though scheduled in finals week, **will not be cumulative** - it will only cover the lectures from Exam 2 onward.
+Each exam will contain approximately half thermodynamics problems, and half structure/bonding questions. Two of the three exams will be given during lecture periods; see the {{% resource_link 6b7b9760-a93e-6366-363e-18aa792baa48 "calendar" %}} section for the detailed schedule. The last exam, though scheduled in finals week, **will not be cumulative** - it will only cover the lectures from Exam 2 onward.
 
-Additional Syllabus information on the Thermodynamics Component ([PDF]({{< baseurl >}}/resources/syllabus_thermo))
+Additional Syllabus information on the Thermodynamics Component ({{% resource_link 3a3d0ef7-1bca-8fd5-163f-6dc5e2c7098e "PDF" %}})

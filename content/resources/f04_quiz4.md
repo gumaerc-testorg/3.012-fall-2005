@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains questions based on bonding and thermodynamics in quiz
   4.
-file: /media/courses/3-012-fundamentals-of-materials-science-fall-2005/046fab6b7ea08b39b3349a9c6ab22341_f04_quiz4.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/046fab6b7ea08b39b3349a9c6ab22341_f04_quiz4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -14,3 +14,5 @@ resourcetype: Document
 title: f04_quiz4.pdf
 uid: 046fab6b-7ea0-8b39-b334-9a9c6ab22341
 ---
+This file contains questions based on bonding and thermodynamics in quiz 4.
+

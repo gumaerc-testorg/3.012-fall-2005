@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-012-fundamentals-of-materials-science-fall-2005/565215c54db38a58c876423b8c6c9cf4_lec18b_wuensch.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/565215c54db38a58c876423b8c6c9cf4_lec18b_wuensch.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
