@@ -7,6 +7,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/f1f4fe77fa1250c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec05t_note.pdf
 uid: f1f4fe77-fa12-50c6-6fb0-0da6b5699bd7
 ---
 This file contains calculation of internal energy changes, heat stored and released during phase changes, accounting for thermal energy in a material, phase change materials technology and discovery of latent heat.
-

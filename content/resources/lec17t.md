@@ -7,6 +7,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/e4abb04acc7a7b3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec17t.pdf
 uid: e4abb04a-cc7a-7b31-d1c0-964d8caa225f
 ---
 This file contains free energy diagrams of multi-phase solutions1, introduction to binary phase diagrams, binary solutions with limited miscibility: miscibility gaps.
-

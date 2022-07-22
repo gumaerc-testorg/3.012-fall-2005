@@ -6,6 +6,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/06f1f6131c4cfca
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec18b_note.pdf
 uid: 06f1f613-1c4c-fca4-07bb-0524f838214c
 ---
 This resource contains class notes on topics such as reciprocal lattice, first and second Laue conditions, and Ewals construction.
-

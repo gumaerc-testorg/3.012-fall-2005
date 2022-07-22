@@ -7,6 +7,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/9a8f47ca6e291b6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec14t.pdf
 uid: 9a8f47ca-6e29-1b6a-6264-d4c9a2b1e259
 ---
 This file contains thermodynamics of a battery, implications of stability requirements for the properties of materials, requirements for the shape of free energy curves and maxwell relations.
-

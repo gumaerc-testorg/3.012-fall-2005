@@ -5,6 +5,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/7d652f993be08ff
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rec2t_responses.pdf
 uid: 7d652f99-3be0-8ff1-93b9-8bd6653d428f
 ---
 This file contains responses to questions of thermo recitation 2.
-

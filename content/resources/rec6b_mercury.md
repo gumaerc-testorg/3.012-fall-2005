@@ -5,6 +5,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/4f3e8c09e947af3
 file_type: application/zip
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection

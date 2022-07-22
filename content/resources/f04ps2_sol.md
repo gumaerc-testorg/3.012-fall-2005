@@ -5,6 +5,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/ae662b11d838394
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: f04ps2_sol.pdf
 uid: ae662b11-d838-3949-7eea-21d9810fe398
 ---
 Solutions to the assigned homework problems.
-

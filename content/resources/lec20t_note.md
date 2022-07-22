@@ -6,6 +6,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/55b94da70629c87
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec20t_note.pdf
 uid: 55b94da7-0629-c877-a7f3-289977f42c64
 ---
 This file contains conditions of stability as a function of composition, second-order phase transitions, statistical mechanics and models of materials.
-

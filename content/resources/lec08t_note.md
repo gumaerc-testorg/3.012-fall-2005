@@ -7,6 +7,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/af1993c10933e87
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec08t_note.pdf
 uid: af1993c1-0933-e877-d130-e5593778885f
 ---
 This file contains thermodynamic driving forces, fundamental equation for the entropy, introduction and application of the second law and internal energy at equilibrium.
-

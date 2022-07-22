@@ -5,6 +5,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/7ab3510fad4105f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz3_sol_bd_sc.pdf
 uid: 7ab3510f-ad41-05fb-929b-25998d5defaa
 ---
 This file contains all the answers on bonding in quiz 3.
-

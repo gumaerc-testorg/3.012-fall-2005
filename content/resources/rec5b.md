@@ -6,6 +6,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/99935d117273955
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rec5b.pdf
 uid: 99935d11-7273-9553-d854-a370105a9218
 ---
 This file contains problems on hydrogen molecular ion, orbital energies contained in recitation 5.
-

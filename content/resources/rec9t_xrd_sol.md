@@ -5,6 +5,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/957661fc15fa633
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rec9t_xrd_sol.pdf
 uid: 957661fc-15fa-6330-7b81-ea1e39025a3e
 ---
 This file contains some idle mind solutions.
-

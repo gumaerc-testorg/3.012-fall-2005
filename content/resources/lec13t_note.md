@@ -6,6 +6,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/595d0f4caf21cd7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec13t_note.pdf
 uid: 595d0f4c-af21-cd76-425e-9eb42173878d
 ---
 This file contains the electrochemical potential and materials design of other current battery and fuel cell technologies.
-

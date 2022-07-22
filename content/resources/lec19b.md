@@ -7,6 +7,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/99cfdb83d442ca6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec19b.pdf
 uid: 99cfdb83-d442-ca6b-3612-02eab09ab7c5
 ---
 This resource provides class notes on topics such as atoms as spherical scatterers, Huygens construction, all three Laue conditions, Ewald construction and powder diffraction.
-

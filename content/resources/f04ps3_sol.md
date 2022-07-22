@@ -6,6 +6,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/6644c7821f5cc7d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: f04ps3_sol.pdf
 uid: 6644c782-1f5c-c7d6-47d6-b44db4884929
 ---
 This resource contains solutions to the problem set on topics like lattices and symmetry, Maxwell relations and variable-change theorem.
-

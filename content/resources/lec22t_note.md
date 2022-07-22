@@ -7,6 +7,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/a2b49c7a1db9fcc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec22t_note.pdf
 uid: a2b49c7a-1db9-fcc9-72d9-481844ef112a
 ---
 This file contains microscopic definition of entropy, the boltzmann factor and partition function, partition function of molecules/atoms vs. multi molecular systems, Einstein solid and examination of heat capacities of different materials.
-

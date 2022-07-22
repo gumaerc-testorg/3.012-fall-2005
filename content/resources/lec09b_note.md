@@ -6,6 +6,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/b39cddbc0018bb2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec09b_note.pdf
 uid: b39cddbc-0018-bb2b-b266-7f7cec85d953
 ---
 This file contains notes for variational principles, good quantum numbers, atomic units, energy of hydrogen atoms, linear combination of atomic model etc.
-

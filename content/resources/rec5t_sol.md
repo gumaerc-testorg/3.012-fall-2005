@@ -5,6 +5,7 @@ file: /courses/3-012-fundamentals-of-materials-science-fall-2005/0bbb315a8e07495
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rec5t_sol.pdf
 uid: 0bbb315a-8e07-4956-eed9-3b266565fcfb
 ---
 This file contains some practice questions for recitation 4.
-
