@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a calendar providing readings for courses lectures
+  and recitation sessions.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 11a083c2-7251-0287-41e6-54784d86363b
 ---
@@ -16,10 +21,10 @@ A&T: Allen, S. M., and E. L. Thomas. _The Structure of Materials_. New York, NY:
 {{< thopen >}}
  
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Structure and Bonding
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Thermodynamics
 {{< thclose >}}
 
@@ -423,7 +428,7 @@ L18
 X-rays at Work: Laue Condition, Ewald Construction, Bragg's Law, Powder Diffraction
 {{< tdclose >}}
 {{< tdopen >}}
-Read: Notes by Prof. B. Wuensch (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.3 MB]({{< baseurl >}}/resources/lec18b_wuensch)) (Courtesy of Prof. Wuensch. Used with permission.)
+Read: Notes by Prof. B. Wuensch ({{% resource_link 565215c5-4db3-8a58-c876-423b8c6c9cf4 "PDF - 4.3 MB" %}}) (Courtesy of Prof. Wuensch. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Binary Phase Diagrams: Miscibility Gaps and Eutectics
