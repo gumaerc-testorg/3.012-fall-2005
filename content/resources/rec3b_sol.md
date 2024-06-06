@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains solutions on spherical harmonics, radial functions
   contained in recitation 3.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/c8f9e972d5a64c2ef86cd3157441cf20_rec3b_sol.pdf
+file_size: 512121
 file_type: application/pdf
 learning_resource_types:
 - Recitations

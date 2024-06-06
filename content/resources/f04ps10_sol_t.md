@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains solutions on various topics under thermodynamics.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/571a54253233b6e8e19f79e82c121901_f04ps10_sol_t.pdf
+file_size: 738319
 file_type: application/pdf
 learning_resource_types:
 - Assignments

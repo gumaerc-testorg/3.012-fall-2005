@@ -5,6 +5,7 @@ description: This file includes the boltzmann factor and partition function, the
   in molecular models, lattice models for translational degrees of freedom, polymer
   solutions.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/f4c56f2c84eb901d8b97acc41dcc6113_lec23t.pdf
+file_size: 4202529
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

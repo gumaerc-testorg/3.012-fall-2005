@@ -3,6 +3,7 @@ content_type: resource
 description: This file includes the einstein solid microstates in isolated systems,
   the microscopic definition of entropy and the boltzmann factor and partition function.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/5c0bfa52fd617b90f85cfbd2e2d1ea78_lec21t.pdf
+file_size: 428739
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

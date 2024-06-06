@@ -5,6 +5,7 @@ description: This resource provides class notes on topics such as energy of a mo
   of an antibondingorbital, bonding and antibonding, many-atoms hamiltonian, molecular
   orbitals from atomic orbitals, hybridization, and carbon compounds.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/5195cd0fd4965f67998a8f306eba6bad_lec10b_note.pdf
+file_size: 656747
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

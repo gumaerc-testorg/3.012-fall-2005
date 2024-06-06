@@ -4,6 +4,7 @@ description: This file contains model solutions for problems 1-4, electrochemist
   thermodynamics of a car battery, stability of a closed system at constant temperature
   and pressure and single-component phase diagrams.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/671b17117a5018a127d83f67a143865b_ps05_sol.pdf
+file_size: 1068100
 file_type: application/pdf
 learning_resource_types:
 - Assignments

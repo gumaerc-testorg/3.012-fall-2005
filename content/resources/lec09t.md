@@ -4,6 +4,7 @@ description: This file contains mechanical equilibrium, internal energy, thermod
   functions for laboratory conditions, Gibbs free energy, Helmholtz free energy and
   mathematical theorems.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/4b1baa5eb07fb3c4c319739c5ded8289_lec09t.pdf
+file_size: 1737018
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

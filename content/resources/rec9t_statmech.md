@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains some practice problems on statistical mechanics.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/78fb2ae0f81b90c6442d91d71d1542b9_rec9t_statmech.pdf
+file_size: 65874
 file_type: application/pdf
 learning_resource_types:
 - Recitations

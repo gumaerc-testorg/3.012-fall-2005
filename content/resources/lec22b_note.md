@@ -4,6 +4,7 @@ description: 'This resource provides information on topics such as pair correlat
   functions, models of disorder: hard spheres, polymers, glass transition, and addition
   vs. condensation polymerization.'
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/8fa259de81810ce901c6510c0c40fde6_lec22b_note.pdf
+file_size: 446729
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
