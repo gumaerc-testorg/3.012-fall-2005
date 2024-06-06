@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains notes for three quantum numbers, balmer lines in hot
   stars, emission and absorption lines, XPS in condensed matter etc.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/5320345686f2660f6b6a27f4c49698f1_lec07b.pdf
+file_size: 819420
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

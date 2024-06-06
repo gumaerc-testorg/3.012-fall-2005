@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/957ef1cbbe1083c24168566c24978187_lec0_orientation.pdf
+file_size: 2713780
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -5,6 +5,7 @@ description: 'This file contains eutectic binary systems, invariant points in bi
   delineating stable and metastable phase boundaries: Spinodals and Miscibility Gaps
   and ternary solution pahse diagrams.'
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/9fa239d16926f0de29a87ed6f2e963d0_lec19t.pdf
+file_size: 646065
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

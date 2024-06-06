@@ -5,6 +5,7 @@ description: This resource contains class notes on topics such as complexity of 
   slater determinant, pauli principle, hartree-fock equations, homonuclear diatomic
   levels.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/9864ab8a61552e98fbdf9d6d05012b10_lec11b.pdf
+file_size: 323324
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

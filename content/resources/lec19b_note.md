@@ -4,6 +4,7 @@ description: This resource provides class notes on topics such as atoms as spher
   scatterers, Huygens construction, all three Laue conditions, Ewald construction
   and powder diffraction.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/f61eb556cfbd9d512f040000cf3ffb77_lec19b_note.pdf
+file_size: 1187468
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

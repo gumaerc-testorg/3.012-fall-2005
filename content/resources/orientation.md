@@ -4,6 +4,7 @@ description: This resource provides information about the department of material
   science and engineering and includes information such as an overview of the department,
   evolution of materials science and engineering, and the new undergraduate curriculum.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/818eda722e04ba853f70ebde920ac9db_orientation.pdf
+file_size: 37938
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions to the problem set on topics like symmetry,and
   tensor quantities.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/2d08af1f107ba06a1342ecc5d3496e81_f04ps5_sol.pdf
+file_size: 592015
 file_type: application/pdf
 learning_resource_types:
 - Assignments

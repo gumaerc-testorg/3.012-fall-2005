@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to assigned homework problems.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/c3c9e05a0af0a627404cd7ffba6ed3ff_f04ps9_sol.pdf
+file_size: 572914
 file_type: application/pdf
 learning_resource_types:
 - Assignments

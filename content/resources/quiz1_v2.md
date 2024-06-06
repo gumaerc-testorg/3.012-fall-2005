@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains two questions each on bonding and thermodynamics in
   quiz 1.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/a83dcb49ce4e7845285a2c7dac8a3807_quiz1_v2.pdf
+file_size: 449346
 file_type: application/pdf
 learning_resource_types:
 - Exams

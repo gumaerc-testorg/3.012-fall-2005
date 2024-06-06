@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains notes for variational principles, good quantum numbers,
   atomic units, energy of hydrogen atoms, linear combination of atomic model etc.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/b39cddbc0018bb2bb2667f7cec85d953_lec09b_note.pdf
+file_size: 175950
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -5,6 +5,7 @@ description: This file includes specific heat of graphite, metal surfaces, tunne
   linear and hermitian, postulate, hermitian operators, position and probability,
   quantum double-slit and deterministic vs. stochastic.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/496f856e7fd24b07e69b8a9477192ca7_lec04b.pdf
+file_size: 978490
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

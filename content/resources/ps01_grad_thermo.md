@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/ac3e86b83a0be259b135471a2364baf2_ps01_grad_thermo.pdf
+file_size: 51697
 file_type: application/pdf
 learning_resource_types:
 - Assignments

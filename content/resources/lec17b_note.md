@@ -4,6 +4,7 @@ description: This resource contains class notes on topics such as radiation, ele
   spectrum, energy of an accelerated electron, moseley law, the laue experiment, and
   difraction.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/1fc3f9b01273ea8095eba5caf6efe0cc_lec17b_note.pdf
+file_size: 1512247
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

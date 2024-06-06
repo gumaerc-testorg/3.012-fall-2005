@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains some idle mind solutions.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/957661fc15fa63307b81ea1e39025a3e_rec9t_xrd_sol.pdf
+file_size: 95908
 file_type: application/pdf
 learning_resource_types:
 - Recitations

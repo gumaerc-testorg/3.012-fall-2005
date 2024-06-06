@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains some practice questions for recitation 4.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/0bbb315a8e074956eed93b266565fcfb_rec5t_sol.pdf
+file_size: 198036
 file_type: application/pdf
 learning_resource_types:
 - Recitations
