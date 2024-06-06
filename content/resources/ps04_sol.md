@@ -4,6 +4,7 @@ description: This file contains free energy calculations, vapor-liquid equilibri
   spontaneous formation of solutions, chemical reaction equilibria, Gas-solid reactions
   and bonding.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/99c743b2cff13d95045bc04e07e0dd2b_ps04_sol.pdf
+file_size: 982523
 file_type: application/pdf
 learning_resource_types:
 - Assignments

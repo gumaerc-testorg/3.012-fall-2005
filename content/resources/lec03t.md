@@ -4,6 +4,7 @@ description: This file contains work and heat change the internal energy of a sy
   and path dependence vs. path independence of work, heat, and other thermodynamic
   functions.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/766ce9c3d7ffd343f97c246a3969fbd4_lec03t.pdf
+file_size: 348313
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

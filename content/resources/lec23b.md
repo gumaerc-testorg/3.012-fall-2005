@@ -4,6 +4,7 @@ description: 'This resource provides information on topics such as glass transit
   temperature, random walks: size of polymers, mean square displacements, solvent
   quality factor, diffusion: rouse chain, and large molecular weight: reptation.'
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/2f4192d696dbb93f6e93fbe0fb9ab798_lec23b.pdf
+file_size: 2423293
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

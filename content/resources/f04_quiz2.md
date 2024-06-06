@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains questions on structures and thermodynamics in quiz
   2.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/f9a32d14208b7e7cfd91bd5573625bd0_f04_quiz2.pdf
+file_size: 340326
 file_type: application/pdf
 learning_resource_types:
 - Exams

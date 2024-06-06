@@ -4,6 +4,7 @@ description: This file contains microscopic definition of entropy, the boltzmann
   and partition function, partition function of molecules/atoms vs. multi molecular
   systems, Einstein solid and examination of heat capacities of different materials.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/d3fa883afa8df7cf7aa0432fcaadde8f_lec22t.pdf
+file_size: 987744
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

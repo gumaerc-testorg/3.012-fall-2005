@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains problems on variational principle and trends across
   periodic table covered in recitation 4.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/484fa60d33192178b7fc16ba491e5993_rec4b.pdf
+file_size: 313521
 file_type: application/pdf
 learning_resource_types:
 - Recitations

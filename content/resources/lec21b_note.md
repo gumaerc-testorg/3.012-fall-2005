@@ -4,6 +4,7 @@ description: 'This resource provides class notes on topics such as physical prop
   and their relation to symmetry, Curie?s principle, erasure: nucleation and growth
   of crystalline material, Te-Sb-GeAlloy, and structural descriptors.'
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/9f311ae4233a277c9705be7af54dced4_lec21b_note.pdf
+file_size: 1999772
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

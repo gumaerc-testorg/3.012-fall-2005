@@ -4,6 +4,7 @@ description: This resource provides class notes on topics such as matrix formula
   the quantization of vibrations, quantum harmonic oscillator, quantum oscillator
   applet, structure, symmetry, and group therapy.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/18a34b4c1020ffbcee8c849efabff534_lec13b.pdf
+file_size: 658200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

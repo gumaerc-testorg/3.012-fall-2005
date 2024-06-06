@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/539905661cdb23f38bb806c157d39f9e_rec8b_xrd.pdf
+file_size: 245467
 file_type: application/pdf
 learning_resource_types:
 - Recitations

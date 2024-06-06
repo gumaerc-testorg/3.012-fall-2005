@@ -4,6 +4,7 @@ description: This file includes behavior of chemical potential/moral free energy
   single component materials, phase diagrams, Gibbs phase rule and Clausius-Clapeyron
   equation.
 file: /courses/3-012-fundamentals-of-materials-science-fall-2005/e5261fefad9960d8b3acd3da4bfc1fef_lec15t_note.pdf
+file_size: 9434762
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
