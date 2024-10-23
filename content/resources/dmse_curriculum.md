@@ -3,7 +3,7 @@ content_type: resource
 description: this resource provides a detailed curriculum for the course and contains
   information such as core subjects, restricted electives, and their various combinations
   that can be chosen by the students.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/c83ee0260d8605932a7a482e7ac14030_dmse_curriculum.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/c83ee0260d8605932a7a482e7ac14030_dmse_curriculum.pdf
 file_size: 147451
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This course includes Lattice models of solutions, Entropy of mixing in
   the Flory-Huggins model, the energy of mixing in the Flory- Huggins model and predictions.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/65d12d650cb1a2f144842399f93a80cc_lec24t.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/65d12d650cb1a2f144842399f93a80cc_lec24t.pdf
 file_size: 1498196
 file_type: application/pdf
 learning_resource_types:
