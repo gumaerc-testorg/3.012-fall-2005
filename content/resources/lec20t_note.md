@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains conditions of stability as a function of composition,
   second-order phase transitions, statistical mechanics and models of materials.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/55b94da70629c877a7f3289977f42c64_lec20t_note.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/55b94da70629c877a7f3289977f42c64_lec20t_note.pdf
 file_size: 2639094
 file_type: application/pdf
 learning_resource_types:

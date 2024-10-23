@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains solutions on chemical work in a multi-component system
   and heat and temperature changes contained in recitation 3.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/32e374db227434f70c9493fb809262e2_rec3t_sol.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/32e374db227434f70c9493fb809262e2_rec3t_sol.pdf
 file_size: 143355
 file_type: application/pdf
 learning_resource_types:

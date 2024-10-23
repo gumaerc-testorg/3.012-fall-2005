@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains problems of recitation 1 on wave-particle duality,
   schrodinger equation, electron density, probability, normalization and spectrum.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/b5122a916f6d3f5afc0b3ae1be530f42_rec1b.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/b5122a916f6d3f5afc0b3ae1be530f42_rec1b.pdf
 file_size: 118742
 file_type: application/pdf
 learning_resource_types:

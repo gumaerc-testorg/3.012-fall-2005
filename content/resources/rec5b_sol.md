@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains solutions of the recitation 5 problems.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/6cee0264986214200f00dd79cfcc363f_rec5b_sol.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/6cee0264986214200f00dd79cfcc363f_rec5b_sol.pdf
 file_size: 106801
 file_type: application/pdf
 learning_resource_types:

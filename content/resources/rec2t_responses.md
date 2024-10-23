@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains responses to questions of thermo recitation 2.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/7d652f993be08ff193b98bd6653d428f_rec2t_responses.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/7d652f993be08ff193b98bd6653d428f_rec2t_responses.pdf
 file_size: 56960
 file_type: application/pdf
 learning_resource_types:
