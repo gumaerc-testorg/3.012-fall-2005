@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains spontaneous wetting, multi-phase/multi-component systems
   and chemical potentials in multi-phase materials at equilibrium.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/a036bc094498d9fb8ccbba952a8b5c54_lec10t_note.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/a036bc094498d9fb8ccbba952a8b5c54_lec10t_note.pdf
 file_size: 2558320
 file_type: application/pdf
 learning_resource_types:
