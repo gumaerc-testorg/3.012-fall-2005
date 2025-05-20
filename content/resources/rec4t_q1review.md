@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about the agenda,laws and graphs.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/50d80613f72fb2048bb52d9f135eb40d_rec4t_q1review.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/50d80613f72fb2048bb52d9f135eb40d_rec4t_q1review.pdf
 file_size: 119305
 file_type: application/pdf
 learning_resource_types:

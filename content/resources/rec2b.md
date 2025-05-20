@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains problems on spherical coordinates, expectation values
   and spectrum covered in recitation 2.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/40d6e933d2f8246c1d24f742ccf76cb7_rec2b.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/40d6e933d2f8246c1d24f742ccf76cb7_rec2b.pdf
 file_size: 102433
 file_type: application/pdf
 learning_resource_types:

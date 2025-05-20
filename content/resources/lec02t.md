@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains thermodynamic variables, systems and functions, identification
   of processes and reversible and irreversible processes.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/e55f8adfbc7a5ea90b132a0403530679_lec02t.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/e55f8adfbc7a5ea90b132a0403530679_lec02t.pdf
 file_size: 643983
 file_type: application/pdf
 learning_resource_types:

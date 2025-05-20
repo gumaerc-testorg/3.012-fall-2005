@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides an overview and general information about class
   lecture notes, reading assignments and additional resources.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/3a3d0ef71bca8fd5163f6dc5e2c7098e_syllabus_thermo.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/3a3d0ef71bca8fd5163f6dc5e2c7098e_syllabus_thermo.pdf
 file_size: 106441
 file_type: application/pdf
 learning_resource_types: []

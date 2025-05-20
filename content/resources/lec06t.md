@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains topics: Magnetic work and Chemical work.'
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/8058a27cbd77b699655b97ddd2b44e27_lec06t.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/8058a27cbd77b699655b97ddd2b44e27_lec06t.pdf
 file_size: 420421
 file_type: application/pdf
 learning_resource_types:

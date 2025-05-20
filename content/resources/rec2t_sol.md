@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains practice answers for the recitation 2 problems.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/24d4f99949696f65df60e90e60676575_rec2t_sol.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/24d4f99949696f65df60e90e60676575_rec2t_sol.pdf
 file_size: 144182
 file_type: application/pdf
 learning_resource_types:

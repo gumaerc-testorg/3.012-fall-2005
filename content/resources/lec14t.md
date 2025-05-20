@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains thermodynamics of a battery, implications of stability
   requirements for the properties of materials, requirements for the shape of free
   energy curves and maxwell relations.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/9a8f47ca6e291b6a6264d4c9a2b1e259_lec14t.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/9a8f47ca6e291b6a6264d4c9a2b1e259_lec14t.pdf
 file_size: 848550
 file_type: application/pdf
 learning_resource_types:
