@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains conditions for stability as a function of composition,
   scond-order transitions and statistical mechanics and models of materials.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/de672a1a8ba78904a65edf61689cf22a_lec20t.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/de672a1a8ba78904a65edf61689cf22a_lec20t.pdf
 file_size: 1453165
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information on topics such as fliessende krystalle!,
   liquid crystals, mesogens, liquid crystalline polymers, friedel classification,
   nematic phases, smectic phases and columnar phases.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/77459f599c3970269c71b8ace1440936_lec24b.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/77459f599c3970269c71b8ace1440936_lec24b.pdf
 file_size: 9727552
 file_type: application/pdf
 learning_resource_types:

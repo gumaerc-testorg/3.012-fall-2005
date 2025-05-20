@@ -4,7 +4,7 @@ description: This file contains reading material on bonding, goal, advanced mate
   particles and EM fields, electromagnetic waves, photons, forces, dynamics, matter,
   material properties, particle, wave, linear superposition, interference patterns
   and wave-particle duality.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/bc91468afe0c48f67db806e0bff56ef9_lec01b.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/bc91468afe0c48f67db806e0bff56ef9_lec01b.pdf
 file_size: 702103
 file_type: application/pdf
 learning_resource_types:

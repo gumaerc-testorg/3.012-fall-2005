@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains topics: Schr?dinger equation, Wavefunctions, Normalization,
   Infinite square well, Atomic units, Particle and Light absorption.'
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/95324dc323d12053d4c1f65f5023fd55_lec03b_note.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/95324dc323d12053d4c1f65f5023fd55_lec03b_note.pdf
 file_size: 543098
 file_type: application/pdf
 learning_resource_types:

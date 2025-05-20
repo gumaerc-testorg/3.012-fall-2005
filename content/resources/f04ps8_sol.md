@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework problems.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/d378161888532d6293483868222f4060_f04ps8_sol.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/d378161888532d6293483868222f4060_f04ps8_sol.pdf
 file_size: 396175
 file_type: application/pdf
 learning_resource_types:

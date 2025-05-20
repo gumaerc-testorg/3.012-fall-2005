@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains class notes on topics such as reciprocal lattice,
   first and second Laue conditions, and Ewals construction.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/9c2dac9fda2e0574fb9562988974be07_lec18b.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/9c2dac9fda2e0574fb9562988974be07_lec18b.pdf
 file_size: 1188933
 file_type: application/pdf
 learning_resource_types:

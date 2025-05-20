@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for recitation 8.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/eaf203da2fa90a760c565f113d08f4d0_rec8t_notes.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/eaf203da2fa90a760c565f113d08f4d0_rec8t_notes.pdf
 file_size: 84458
 file_type: application/pdf
 learning_resource_types:
