@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains thermodynamics, it's variables, systems, functions
   and state and equilibrium.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/7bd3b9b922b16f0d967d18db5649adc9_lec01t.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/7bd3b9b922b16f0d967d18db5649adc9_lec01t.pdf
 file_size: 3349006
 file_type: application/pdf
 learning_resource_types:

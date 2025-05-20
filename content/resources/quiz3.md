@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains questions to expalin on bonding and thermodynamics
   in quiz 3.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/c48c49d46008d01c480480c8ff8f0d7b_quiz3.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/c48c49d46008d01c480480c8ff8f0d7b_quiz3.pdf
 file_size: 360251
 file_type: application/pdf
 learning_resource_types:

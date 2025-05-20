@@ -4,7 +4,7 @@ description: This file includes specific heat of graphite, metal surfaces, tunne
   microscopy, wavepacket tunnelling, dirac notation, operator algebra, commutators,
   linear and hermitian, postulate, hermitian operators, position and probability,
   quantum double-slit and deterministic vs. stochastic.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/46bcb78c9f02a2b51ad03656389b6e03_lec04b_note.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/46bcb78c9f02a2b51ad03656389b6e03_lec04b_note.pdf
 file_size: 1014956
 file_type: application/pdf
 learning_resource_types:

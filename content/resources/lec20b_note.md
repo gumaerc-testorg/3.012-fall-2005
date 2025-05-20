@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides notes on topics such as scalars, vectors, tensors,
   Einstein?s convention, orthogonal matrices, and transformation law for products
   of co-ordinates.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/227558297032400302f1ab83d0b2a979_lec20b_note.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/227558297032400302f1ab83d0b2a979_lec20b_note.pdf
 file_size: 534857
 file_type: application/pdf
 learning_resource_types:

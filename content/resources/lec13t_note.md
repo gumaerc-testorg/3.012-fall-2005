@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the electrochemical potential and materials design
   of other current battery and fuel cell technologies.
-file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/595d0f4caf21cd76425e9eb42173878d_lec13t_note.pdf
+file: /courses/3-012-fundamentals-of-materials-science-fall-2005/595d0f4caf21cd76425e9eb42173878d_lec13t_note.pdf
 file_size: 3548060
 file_type: application/pdf
 learning_resource_types:
