@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains all the answers on bonding in quiz 3.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/7ab3510fad4105fb929b25998d5defaa_quiz3_sol_bd_sc.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/7ab3510fad4105fb929b25998d5defaa_quiz3_sol_bd_sc.pdf
 file_size: 194767
 file_type: application/pdf
 learning_resource_types:

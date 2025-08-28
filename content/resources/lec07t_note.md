@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains thermal expansion/contraction and mechanical expansion/compression,
   graphical summary of thermal behavior and thermodynamic driving forces.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/1329299798ee9a879fba097b05dd1a5e_lec07t_note.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/1329299798ee9a879fba097b05dd1a5e_lec07t_note.pdf
 file_size: 1940885
 file_type: application/pdf
 learning_resource_types:

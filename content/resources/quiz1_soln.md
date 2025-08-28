@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains solutions of problems on bonding and thermodynamics
   covered in quiz 1.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/df41a73e5cb9fe57e6136177579072a7_quiz1_soln.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/df41a73e5cb9fe57e6136177579072a7_quiz1_soln.pdf
 file_size: 667948
 file_type: application/pdf
 learning_resource_types:

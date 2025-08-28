@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains equating chemical potentials during reactions and
   reactions of gases with condensed phases.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/fd1c85d831dc077badafa89cd12269fb_lec12t.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/fd1c85d831dc077badafa89cd12269fb_lec12t.pdf
 file_size: 725879
 file_type: application/pdf
 learning_resource_types:
