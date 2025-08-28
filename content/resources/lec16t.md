@@ -4,7 +4,7 @@ description: This file includes single-component phase diagrams and the Gibbs ph
   rule, The Clausius-Clapeyron equation, Graphical constructions of the free energy
   in mixtures and solutions, free energy diagrams of ideal solutions, melting point
   depression and the common tangent construction and the lever rule.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/fa0dc59bf81a02b30b5b4ee18c700eea_lec16t.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/fa0dc59bf81a02b30b5b4ee18c700eea_lec16t.pdf
 file_size: 2841351
 file_type: application/pdf
 learning_resource_types:

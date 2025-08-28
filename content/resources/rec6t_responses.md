@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the recitation format, some problems and miscellaneous
   questions.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/0ab8108a1493b55dce6faf4c9aebdc3c_rec6t_responses.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/0ab8108a1493b55dce6faf4c9aebdc3c_rec6t_responses.pdf
 file_size: 69469
 file_type: application/pdf
 learning_resource_types:

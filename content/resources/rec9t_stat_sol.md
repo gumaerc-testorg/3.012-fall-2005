@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains solutions to thermo/stat mech practice problems.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/4b2f39fc6492f2ea3cf6de65531263d1_rec9t_stat_sol.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/4b2f39fc6492f2ea3cf6de65531263d1_rec9t_stat_sol.pdf
 file_size: 41558
 file_type: application/pdf
 learning_resource_types:
