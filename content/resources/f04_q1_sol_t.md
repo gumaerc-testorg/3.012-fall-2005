@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains solutions of various questions based on thermodynamics.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/f4d086453807bc278c7068f18fb1d936_f04_q1_sol_t.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/f4d086453807bc278c7068f18fb1d936_f04_q1_sol_t.pdf
 file_size: 246895
 file_type: application/pdf
 learning_resource_types:

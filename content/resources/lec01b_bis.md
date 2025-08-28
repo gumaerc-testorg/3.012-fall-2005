@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/451781865b2544b82bfb2234d4808e31_lec01b_bis.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/451781865b2544b82bfb2234d4808e31_lec01b_bis.pdf
 file_size: 734587
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions to the problem set on topics like lattices
   and symmetry, Maxwell relations and variable-change theorem.
-file: /courses/3-012-fundamentals-of-materials-science-fall-2005/6644c7821f5cc7d647d6b44db4884929_f04ps3_sol.pdf
+file: /ol-ocw-studio-app/courses/3-012-fundamentals-of-materials-science-fall-2005/6644c7821f5cc7d647d6b44db4884929_f04ps3_sol.pdf
 file_size: 957733
 file_type: application/pdf
 learning_resource_types:
