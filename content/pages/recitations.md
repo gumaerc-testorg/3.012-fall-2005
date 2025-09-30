@@ -124,7 +124,7 @@ Responses to Student Questions ({{% resource_link "0ab8108a-1493-b55d-ce6f-af4c9
 Rb6
 {{< tdclose >}}{{< tdopen colspan="2" >}}
 
-[Mercury Software](https://www.ccdc.cam.ac.uk/solutions/software/mercury/)
+{{% resource_link "90e66f4d-4196-4dc5-b1ae-fb04beb859bf" "Mercury Software" %}}
 
 Handout on Mercury ({{% resource_link "d8e1fc69-10b4-9deb-b39f-51d65f1dc65d" "PDF" %}})
 
