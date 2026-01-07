@@ -89,7 +89,7 @@ E&R: Review 12.5, 13.2, and 13.3; Study 13.4 and 13.5.
   
 Mortimer, R. G. "Principles of Quantum Mechanics: Classical Mechanics." Section 14.1 in _Physical Chemistry_. 2nd ed. San Diego, CA: Elsevier, 2000. ISBN: 9780125083461.  
   
-Dill, D. "Analytic solution of the Schrödinger equation: Particle in a box." ([PDF](http://www.bu.edu/quantum/notes/QuantumMechanics/ParticleInABox.pdf))  
+Dill, D. "Analytic solution of the Schrödinger equation: Particle in a box." ({{% resource_link "c3f27481-430d-4418-a5d4-3aa373a2443d" "PDF" %}})  
   
 Smith, D. Y. "Spin-Orbit Effects in the F and K Bands of Colored Alkali Halides." _Physical Review_ B 6, no. 2 (July 15, 1972): 565-581.
 {{< tdclose >}}
@@ -464,7 +464,7 @@ L19
 From Diffraction to Structure
 {{< tdclose >}}
 {{< tdopen >}}
-[X-Ray Diffraction Theory (ChE 386K)](https://www.koofers.com/university-of-texas-austin-utexas/che/386k-theory-of-x-ray-diffraction/)  
+{{% resource_link "8100c52f-71e0-4304-b26f-8ac52ebb5bce" "X-Ray Diffraction Theory (ChE 386K)" %}}  
 This University of Texas-Austin course Web site by Steve Swinnea at has many details (from Lec #19 on, note different 2? convention).
 {{< tdclose >}}
 {{< tdopen >}}
